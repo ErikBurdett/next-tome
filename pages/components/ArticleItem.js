@@ -9,6 +9,7 @@ const ArticleItem = ({ article }) => {
         <Image src={article.cover}
         width='100%'
         height='100%'
+        alt="D&D Session Cover Image"
         layout='responsive'/>
         <h3>{article.title} &rarr;</h3>
         <p>{article.excerpt}</p>
