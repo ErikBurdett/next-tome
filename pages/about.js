@@ -7,6 +7,7 @@ const about = () => {
             <meta name='keywords' content='D&D'/> 
         </Head>
             <h1> About </h1>
+            <p>TOME: Next.js/React app for keeping D&D Campaign Notes. In development: https://github.com/ErikBurdett/next-tome </p>
         </div>
     )
 }

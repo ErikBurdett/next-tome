@@ -1,11 +1,15 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import articleStyles from '/styles/Article.module.css'
 
 const ArticleItem = ({ article }) => {
   return (
     <Link href={`/article/${article.id}`}>
       <a className={articleStyles.card}>
-        <img src={article.cover}/>
+        <Image src={article.cover}
+        width='100%'
+        height='100%'
+        layout='responsive'/>
         <h3>{article.title} &rarr;</h3>
         <p>{article.excerpt}</p>
       </a>
