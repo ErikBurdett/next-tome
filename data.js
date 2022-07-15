@@ -4,6 +4,7 @@ export const articles = [
     {
       id: '1',
       cover: "https://photos.smugmug.com/TOME/i-j63ckCh/0/4dc3b926/L/LMOPcover-L.png",
+      coveralt: "tome s1e1",
       title: 'D&D5E: Broken Stone S1E1 - An Expedition Already In Motion',
       excerpt:
         'Gundrin, daring archeologist, has launched a secret but much whispered about expedition into the heart of Faerun',
@@ -15,6 +16,7 @@ export const articles = [
       id: '2',
       title: 'D&D5E: Broken Stone S1E2 - Goblin Blood',
       cover: "https://photos.smugmug.com/TOME/i-8tCSncv/0/7f1af323/L/LMOPart-L.jpg",
+      coveralt: "tome s1e2",
       excerpt:
         'The blood still fresh upon their blades the group seeks their quarry within the wild forests that border the Triboar Trail',
       body:
@@ -24,6 +26,7 @@ export const articles = [
       id: '3',
       title: 'D&D5E: Broken Stone S1E3 - Another Whiteclaw',
       cover: 'https://photos.smugmug.com/TOME/i-wh85xhL/0/47be9b6b/Th/prarie_token-Th.png',
+      coveralt: "tome s1e3",
       excerpt:
         'The group awakes in Phandalin, Sildar has news, and there is another Whiteclaw paladin in town',
       body:
