@@ -1,8 +1,7 @@
 
-
 export const articles = [
     {
-      id: '1',
+      id: '0',
       cover: "https://photos.smugmug.com/TOME/i-j63ckCh/0/4dc3b926/L/LMOPcover-L.png",
       coveralt: "tome s1e1",
       title: 'D&D5E: Broken Stone S1E1 - An Expedition Already In Motion',
@@ -13,7 +12,7 @@ export const articles = [
 
     },
     {
-      id: '2',
+      id: '1',
       title: 'D&D5E: Broken Stone S1E2 - Goblin Blood',
       cover: "https://photos.smugmug.com/TOME/i-8tCSncv/0/7f1af323/L/LMOPart-L.jpg",
       coveralt: "tome s1e2",
@@ -23,7 +22,7 @@ export const articles = [
         "Cragmaw hideout: where the party slaughtered every goblin they came into contact with, surprising the lead goblin boss (a bugbear). The goblin boss tried to scramble through a secret tunnel into the wold den inside the cave and got stuck, then Jacob's character cast illusion on the other side with the smell of  fresh meat - the wolves then tore the goblin in half through the small tunnel where he was stuck. The group, finding a torn note that said in broken common & goblin that Gundren had been taken to Cragmaw Fortress along with Sildar's armor & sword. The note was signed by a spider symbol - The party also retrieved the last two intercepted shipments bound for Phandelin: -4 barrels of ale, 2 barrels of supplies for the local inn Gundren Rockseeker's cart full of mining supplies & 500 pounds of dragon's breath powder (TNT) An obviously stolen shipment that has a manifest intended for the Whiteclaw outpost/mission in Phandalin Klarg's chest with 600cp, 110sp, two potions of healing, a small jade statue of a frog with gold eyes made by goblins (very ugly and ill-made but the materials are precious 40gp) The group then regathered at the cart and made their way into Phandalin which upon initial glance was under heavy guard. Exhausted, Sildar, Sleepy, Darling, Tavin and the group retired in the tavern - taking all but one room in the small inn. Darling, being the most together upon arrival purchased the rooms with her share of Klarg's chest. Snapshot: Coming into Phandalin: As the party approached Phandalin the sun set red and orange under the cover of the tri-boar woods. The peak tower of an ancient and dilapidated hold in the center of Phandalin stood silhouted above the trees backlit by sunset. Around the perimeter of the town, broken in places, with great hedges and oak trees making up the gaps, are the remains of an ancient bulwark, around 9 feet high and 6 feet thick in places that it's not fallen into disrepair The caravan rolled ragged into Phandalin past a small gate guarded by two men dressed in red cloaks and stressed leather armor. Beneath their hoods the two look at each other knowingly as they hold the gate open for the passing caravan. Tavin coughs painfully. As they meander up the dirt road that serves as the main drag of the town they can see a small general store with two burnt structures next to it. On the opposit end of the burnt structure sits 'the tavern'. ",
     },
     {
-      id: '3',
+      id: '2',
       title: 'D&D5E: Broken Stone S1E3 - Another Whiteclaw',
       cover: 'https://photos.smugmug.com/TOME/i-wh85xhL/0/47be9b6b/Th/prarie_token-Th.png',
       coveralt: "tome s1e3",
